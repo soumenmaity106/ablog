@@ -1,4 +1,4 @@
-## News Portal built with React Redux Json Server
+## Blog Portal built with React Redux
 
 This simple Web application prototype shows how React Redux components can be used to build a friendly user experience with instant visual updates and scaleable code in Web application
 
