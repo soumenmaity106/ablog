@@ -1,0 +1,20 @@
+.linkcolor {
+	text-decoration: none;
+	color: #fff;
+	font-size: 14px;
+	font-family: "Roboto";
+	font-weight: 500;
+	line-height: 1.75;
+	text-transform: uppercase;
+	margin-right: 10px;
+}
+/* .card-container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+} */
+.card-item {
+	width: 30%;
+	float: left;
+	margin-right: 1%;
+}
